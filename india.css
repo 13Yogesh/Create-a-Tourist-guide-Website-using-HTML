@@ -1,0 +1,94 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.i1
+{
+  margin-left:0px; 
+}
+
+.i2
+{
+    
+    align-items: center;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+.i3
+{
+    image-rendering: 20px;
+
+}
+
+
+
+.i5
+{
+    margin-left: 100px;
+}
+
+
+.final {
+    background-color: rgb(30,29,29);
+    width: 100%;
+    padding:0px;
+    border:50px solid rgb(30, 29, 29);
+    margin:0px;
+    border-radius:0px;  
+    color: white;  
+    
+  }
+  
+  .final footer{
+    background-color: rgb(0, 0, 0);
+    width: 10%;
+    padding:0px;
+    border: 2px solid rgb(0, 0, 0);
+    margin:0px;
+    
+    height: 500px;
+  }
+  
+  .image9
+  {
+    margin-bottom: -30px;
+    margin-left:100px;
+  }
+  
+  .para10
+  {
+    font-weight: lighter;
+    margin-left:200px;
+    margin-top: -30px;
+  }
+  
+  .find
+  {
+    color: white;
+    margin-left:466px;
+    font-weight: lighter;
+    margin-top: -12px;
+    text-decoration: underline;
+    
+  
+  }
+  .find:hover
+  {
+    text-decoration: none;
+  }
+  
+  .lasticon
+  {
+    margin-left:1000px;
+    margin-top: -15px;
+    font-size: 26px;
+    cursor: pointer;
+    
+  }
+
